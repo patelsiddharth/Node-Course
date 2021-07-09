@@ -1,0 +1,2 @@
+This file is created using NODE.JS
+This line is appended using appendFileSync method of fs module
